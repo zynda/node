@@ -11,7 +11,7 @@
     "rehype-stringify": "^3.0.0",
     "remark-html": "^7.0.0",
     "remark-parse": "^5.0.0",
-    "remark-rehype": "^3.0.0",
+    "remark-rehype": "^3.0.2",
     "to-vfile": "^5.0.0",
     "unified": "^7.0.0",
     "unist-util-find": "^1.0.1",
